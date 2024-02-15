@@ -1,12 +1,24 @@
-/*  your css code here. If applicable */
-root {
-    --main-bg-color:" rgb(135, 206, 235)";
-}
 
-body {
-    background-color: var(--main-bg-color);
+body
+{
+    background-color: rgb(135,206,235);
 }
-#pi{
-background-color:black;
-	color:white;
+#first-child
+{
+background-color: black;
+	color: white;
+}
+#nith-child
+{
+	color: red;
+}
+#white{
+	background-color: white;
+}
+#pink{
+	background-color: pink;
+}
+#grey{
+	background-color: grey;
+	
 }
