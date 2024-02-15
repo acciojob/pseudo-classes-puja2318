@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+root {
+    --main-bg-color:" rgb(135, 206, 235)";
+}
+
+body {
+    background-color: var(--main-bg-color);
+}
+#pi{
+background-color:black;
+	color:white;
+}
